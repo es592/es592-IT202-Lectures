@@ -1,2 +1,2 @@
 # es592-IT202-Lectures
-Lecture notes etc.
+Lecture notes etc and practice.
